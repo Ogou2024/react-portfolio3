@@ -1,0 +1,104 @@
+.welcome h1 {
+    font-family: 'Montserrat Bold';
+    font-size: 5rem;    
+    text-transform: uppercase;
+    color: black;    
+}
+h1 {
+    margin: 0px;
+    font-size: 4rem;
+    color: blue;    
+}
+h2 {
+    margin: 0px;
+    font-size: 3rem;
+    color: blue;
+}
+.resume h3 {
+    margin: 0px;
+    font-size: 2.5rem;
+    background-color: red; 
+    position: relative;
+    top: 28px;  
+}
+.project h3 {
+    margin: 0px;
+    font-size: 2.5rem;
+    background-color: blue; 
+    position: relative;
+    top: 28px;
+    color: white;  
+}
+.skills h3 {
+    margin: 0px;
+    font-size: 2.5rem;
+    background-color: green; 
+    position: relative;
+    top: 28px;
+    color: yellow;
+}    
+p {
+    margin: 0px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+img {
+    border-radius: 20%;
+    box-sizing: 100%;
+}
+.intro {    
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 50px;
+    text-align: center;
+}
+
+.welcome {
+    width: 450px;
+    height: 100px;
+    position: absolute;
+    left: 390px;
+    top: 50px;
+    text-align: center;
+}
+
+.profile {    
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 40px;
+    top: 140px;
+    border-radius: 20%;
+}
+.resume {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 340px;
+    top: 320px;
+    border-radius: 20%;
+    text-align: center;
+}
+.project {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 540px;
+    top: 320px;
+    border-radius: 20%;
+    text-align: center;
+}
+.skills {
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 740px;
+    top: 320px;
+    border-radius: 20%;
+    text-align: center;    
+}

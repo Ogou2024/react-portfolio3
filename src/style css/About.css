@@ -1,0 +1,88 @@
+.titleAbout h1 {
+    font-family: 'Montserrat Bold';
+    font-size: 6rem;    
+    text-transform: uppercase;
+    color: black;    
+}
+
+.me {
+    background-color: #ffffff;
+    width: 500px;
+    height: 550px;
+    position: absolute;
+    left: 50px;
+    top: 120px;
+    border-radius: 5%;
+    text-align: center;
+    padding: 5px;
+}    
+.mission h2 {
+    padding: 20px;
+    font-size: 4rem;
+    margin-top: 150px;
+}
+
+.me h2 {
+    padding: 20px;
+    font-size: 4rem;
+}
+
+.goal h2 {
+    padding: 15px;
+    font-size: 4rem;
+    margin-top: 100px;
+}
+
+.goal ul {    
+    font-size: 2rem;
+    text-align: left;
+}
+
+.vision h2 {
+    padding: 20px;
+    font-size: 4rem;
+    margin-top: 50px;
+}
+.mission {
+    background-color: #ffffff;
+    width: 500px;
+    height: 550px;
+    position: absolute;
+    left: 600px;
+    top: 120px;
+    border-radius: 5%;
+    text-align: center; 
+} 
+
+.mission p {
+    font-size: 3rem;
+    padding: 20px;
+}
+
+.vision {
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 600px;
+    top: 700px;
+    border-radius: 5%;
+    text-align: center; 
+}  
+
+.vision p {
+    font-size: 2rem;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.goal {
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 50px;
+    top: 700px;
+    border-radius: 5%;
+    text-align: center; 
+}

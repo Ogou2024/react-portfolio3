@@ -1,0 +1,271 @@
+.titleResume h1 {
+    font-family: 'Montserrat Bold';
+    font-size: 6rem;    
+    text-transform: uppercase;
+    color: black;    
+}
+
+.education{
+    background-color: #ffffff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 50px;
+    top: 120px;
+    border-radius: 14%;
+    text-align: center;    
+}  
+
+.education div {
+    margin: 0px;
+    width: 90%;
+    height: 90%;
+    position: relative;
+    top: 5%;
+    left: 7%;
+    background-color: #ffffff;    
+}
+.education div div {
+    margin: 0px;
+    width: 80%;
+    height: 25%;    
+    background-color: #ffffff;    
+}
+
+.education div h1 {
+    font-size: 2rem;    
+    color: #d00000;
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top: 85%;
+    left: 6%;   
+}
+
+.education div div h2 {
+    margin: 0px;
+    font-size: 1.5rem;
+    color: #000000;
+    background-color: #ffb703;      
+}
+
+.education div div p {
+    margin: 0px;
+    font-size: .9rem;
+    font-weight: lighter;  
+    color: #000000;
+    background-color: #ffb703;      
+}
+
+.experience {
+    background-color: #ffffff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    top: 120px;
+    border-radius: 14%;
+    text-align: center;    
+}  
+
+.experience div {
+    margin: 0px;
+    width: 90%;
+    height: 90%;
+    position: relative;
+    top: 5%;
+    left: 7%;
+    background-color: #ffffff;    
+}
+.experience div div {
+    margin: 0px;
+    width: 80%;
+    height: 25%;    
+    background-color: #ffffff;    
+}
+
+.experience div h1 {
+    font-size: 2rem;    
+    color: #d00000;
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top: 85%;
+    left: 6%;   
+}
+
+.experience div div h2 {
+    margin: 0px;
+    font-size: 1.35rem;
+    color: #000000;
+    background-color: #ffb703;      
+}
+
+.experience div div p {
+    margin: 0px;
+    font-size: .9rem;
+    font-weight: lighter;    
+    color: #000000;
+    background-color: #ffb703;      
+}
+
+.leadership {
+    background-color: #ffffff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 550px;
+    top: 120px;
+    border-radius: 14%;
+    text-align: center;    
+}  
+
+.leadership div {
+    margin: 0px;
+    width: 90%;
+    height: 90%;
+    position: relative;
+    top: 5%;
+    left: 7%;
+    background-color: #ffffff;    
+}
+.leadership div div {
+    margin: 0px;
+    width: 80%;
+    height: 17%;    
+    background-color: #ffffff;    
+}
+
+.leadership div h1 {
+    font-size: 2rem;    
+    color: #d00000;
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top: 85%;
+    left: 6%;   
+}
+
+.leadership div div h2 {
+    margin: 0px;
+    font-size: 1.35rem;
+    color: #000000;
+    background-color: #ffb703;      
+}
+
+.leadership div div p {
+    margin: 0px;
+    font-size: .9rem;
+    font-weight: lighter;    
+    color: #000000;
+    background-color: #ffb703;      
+}
+
+.web {
+    background-color: #ffffff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 50px;
+    top: 450px;
+    border-radius: 20%;
+    text-align: center;       
+}  
+
+.web div {
+    margin: 0px;
+    width: 80%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    left: 10%;
+    background-color: #ffffff;    
+}
+
+.web div h1 {
+    font-size: 1.5rem;    
+    color: #0496ff;
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top: 85%;
+    left: 6%;   
+}
+
+.web div h2 {
+    margin: 10px;
+    font-size: 1.5rem;
+    color: #000000;
+    background-color: #bde0fe;      
+}
+
+.language {
+    background-color: #ffffff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    top: 450px;
+    border-radius: 20%;
+    text-align: center;       
+}  
+
+.language div {
+    margin: 0px;
+    width: 80%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    left: 10%;
+    background-color: #ffffff;    
+}
+
+.language div h1 {
+    font-size: 1.35rem;    
+    color: #0496ff;
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top: 87%;
+    left: 6%;   
+}
+
+.language div h2 {
+    margin: 6px;
+    font-size: 1.5rem;
+    color: #000000;
+    background-color: #bde0fe;      
+}
+
+.engineering {
+    background-color: #ffffff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 550px;
+    top: 450px;
+    border-radius: 20%;
+    text-align: center;       
+}  
+
+.engineering div {
+    margin: 0px;
+    width: 80%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    left: 10%;
+    background-color: #ffffff;    
+}
+
+.engineering div h1 {
+    font-size: 1.6rem;    
+    color: #0496ff;
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top: 70%;
+    left: 6%;   
+}
+
+.engineering div h2 {
+    margin: 15px;
+    font-size: 1.5rem;
+    color: #000000;
+    background-color: #bde0fe;      
+}
+
